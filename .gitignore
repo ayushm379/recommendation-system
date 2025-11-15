@@ -11,9 +11,7 @@ __pycache__/
 
 # Removed data since size is big
 data/movies.csv
-data/movies.csv.zip
 data/ratings.csv
-data/ratings.csv.zip
 
 # Distribution / packaging
 .Python
