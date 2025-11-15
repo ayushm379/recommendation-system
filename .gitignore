@@ -5,7 +5,15 @@ __pycache__/
 
 # C extensions
 *.s
+
+# Removed Mac files
 .DS_STORE
+
+# Removed data since size is big
+data/movies.csv
+data/movies.csv.zip
+data/ratings.csv
+data/ratings.csv.zip
 
 # Distribution / packaging
 .Python
